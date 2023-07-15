@@ -5,7 +5,6 @@ The research question and objective of this project is, whether we can classify 
 
 The Dataset is taken from Kaggle competition  held 5 years ago. 
 It contains approximately 160K rows, with 8 columns: ‘id’, ‘comment_text’  and 6 types of toxicity target labels (1/0), which have been labeled by human raters of toxic behavior:
-![image](https://github.com/ronister/HIT-NLP-Toxic-Comments/assets/30979104/6414f381-f704-44ae-bc5b-8b25a2fd9ca7)
 
 Toxic – Very bad, unpleasant, harmful.
 Severe toxic – Extremely bad and offensive.
